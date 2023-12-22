@@ -21,7 +21,7 @@ Reads a pulse (either `HIGH` or `LOW`) on a pin. For example, if `value` is `HIG
 
 The timing of this function has been determined empirically and will probably show errors in longer pulses. Works on pulses from 10 microseconds to 3 minutes in length.
 
-NOTE:  if the optional timeout is used code will execute faster.
+NOTE:  if the optional timeout is used the code will execute faster.
 [%hardbreaks]
 
 
